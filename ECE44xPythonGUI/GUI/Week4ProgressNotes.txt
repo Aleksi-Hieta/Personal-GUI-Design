@@ -1,0 +1,12 @@
+
+PROGRESS REPORT
+
+    Team Work
+        1. Project Block Definition
+        2. Work Breakdown
+        3. Top Level Block Diagram
+
+    Individual Work
+        1. GUI Development
+
+
